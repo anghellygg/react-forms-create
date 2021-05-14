@@ -1,0 +1,9 @@
+.mascot td{
+    width: 3000px;
+    border: 2px solid rgba(46, 42, 42, 0.164);
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.568);
+    color: #080101;
+    font: 100% sans-serif;
+    border-radius: 10px;
+}

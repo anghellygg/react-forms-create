@@ -1,0 +1,11 @@
+.typePet th{
+    width: 200px;
+    text-transform: rgb(149, 121, 155);
+    border: 4px solid rgb(219, 116, 240);
+    border-collapse: collapse;
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.781);
+    color: rgb(222, 67, 253);
+    font: 110% sans-serif;
+    font-weight: 700;
+}
